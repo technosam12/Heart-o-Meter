@@ -114,7 +114,7 @@ widgetsnbextension==3.5.1
 
 ## Working
 
-Run the following code in your terminal or command prompt - 
+1. Run the following code in your terminal or command prompt - <streamlit run app.py>
+2. Then the webapp will open in your browser
 
-I think you should use an
-`<addr>` element here instead.
+### Demo
