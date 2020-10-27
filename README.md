@@ -1,6 +1,6 @@
 # Heart-Failure-Prediction
 ## Overview
-<img src="https://media1.giphy.com/media/8cBhJBU2wlq6H6qY4W/giphy.gif" width="300" height="300" />
+<img src="https://media1.giphy.com/media/8cBhJBU2wlq6H6qY4W/giphy.gif" width="500" height="500" />
 
 Heart failure, sometimes known as congestive heart failure, occurs when your heart muscle doesn't pump blood as well as it should.
 
