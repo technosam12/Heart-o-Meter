@@ -118,3 +118,7 @@ widgetsnbextension==3.5.1
 2. Then the webapp will open in your browser
 
 ### Demo
+
+<p align = "center">
+  <img src="file:///C:/Users/Vectus/Downloads/streamlit-heart_app-2020-10-27-21-10-72.gif"/>
+</p>
