@@ -1,9 +1,13 @@
 # Heart-Failure-Prediction
 ## Overview
+
+
+Heart failure, sometimes known as congestive heart failure, occurs when your heart muscle doesn't pump blood as well as it should.
+
 According to the World Health Organisation, 17 million people on an average die due to heart related diseases every year.
 
 <p align="center">
-  <img width="400" height="350" src="https://www.walgreens.com/images/adaptive/pharmacy/healthcenter/article_causes-of-heart-failure.jpg">
+  <img width="400" height="350" src="https://www.verywellhealth.com/thmb/-E63ily4rvk-PvbvPMDkKa-7H5M=/700x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/overview-of-heart-disease-4160961_final-152f46073f2242999b771e409973825b.png">
 </p>
 
 This project aims to predict heart failure of a person using **Machine Learning Algorithms**. The model is based on a __Random Forest Classifier__. It has an accuracy of **99.2%**. The dataset used in the project is on [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci)
