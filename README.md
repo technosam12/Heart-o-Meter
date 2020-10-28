@@ -20,47 +20,6 @@ This project aims to predict heart failure of a person using **Machine Learning 
 
 ## Requirements
 
-altair==4.1.0
-argon2-cffi==20.1.0
-astor==0.8.1
-async-generator==1.10
-attrs==20.2.0
-backcall==0.2.0
-base58==2.0.1
-bleach==3.2.1
-blinker==1.4
-boto3==1.15.18
-botocore==1.18.18
-cachetools==4.1.1
-certifi==2020.6.20
-cffi==1.14.3
-chardet==3.0.4
-click==7.1.2
-colorama==0.4.4
-cycler==0.10.0
-decorator==4.4.2
-defusedxml==0.6.0
-entrypoints==0.3
-enum-compat==0.0.3
-gitdb==4.0.5
-GitPython==3.1.9
-idna==2.10
-ipykernel==5.3.4
-ipython==7.18.1
-ipython-genutils==0.2.0
-ipywidgets==7.5.1
-jedi==0.17.2
-Jinja2==2.11.2
-jmespath==0.10.0
-joblib==0.17.0
-jsonschema==3.2.0
-jupyter-client==6.1.7
-jupyter-core==4.6.3
-jupyterlab-pygments==0.1.2
-kiwisolver==1.2.0
-MarkupSafe==1.1.1
-matplotlib==3.3.2
-
 numpy==1.19.2
 
 pandas==1.1.2
@@ -68,9 +27,10 @@ pandas==1.1.2
 pickle-mixin==1.0.2
 
 scikit-learn==0.23.2
-scipy==1.5.2
-streamlit==0.69.2
 
+scipy==1.5.2
+
+streamlit==0.69.2
 
 ## Working
 
@@ -78,7 +38,3 @@ streamlit==0.69.2
 2. Then the webapp will open in your browser
 
 ### Demo
-
-<p align = "center">
-  <img src="file:///C:/Users/Vectus/Downloads/streamlit-heart_app-2020-10-27-21-10-72.gif"/>
-</p>
