@@ -34,7 +34,9 @@ streamlit==0.69.2
 
 ## Working
 
-1. Run the following code in your terminal or command prompt - <streamlit run app.py>
+1. Run the following code in your terminal or command prompt - 
+```streamlit run app.py```
+
 2. Then the webapp will open in your browser
 
 ### Demo
