@@ -38,3 +38,5 @@ streamlit==0.69.2
 2. Then the webapp will open in your browser
 
 ### Demo
+
+![Gif](video.gif)
