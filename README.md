@@ -1,4 +1,4 @@
-# Heart-Failure-Prediction
+# Heart-o-Meter
 ## Overview
 <p align = "center">
   <img src="https://media1.giphy.com/media/8cBhJBU2wlq6H6qY4W/giphy.gif" width="500" height="500" />
