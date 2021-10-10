@@ -38,7 +38,7 @@ st.markdown(page_bg_img, unsafe_allow_html=True)
 
 html_temp = """
     <div style="background-color:#FF0000  ;padding:10px">
-    <h1 style="color:white;text-align:center;">Heart Failure Prediction</h2>
+    <h1 style="color:white;text-align:center;font-size: 2.5em;">Heart-o-Meter</h1>
     </div>
     """
 st.markdown(html_temp, unsafe_allow_html=True)
@@ -110,12 +110,12 @@ danger_html="""
 lst = [[age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal]]
 df = pd.DataFrame(lst, columns=['Age','Sex','Cp','Trestbps','Chol','Fbs','Restecg','Thalach','Exang','Oldpeak','Slope','Ca','Thal'])
 
-prediction = model.predict_proba(df)[:, 1]
+prediction = model.predict_proba(df)[:, 0]
 predict = np.round(prediction, 2)
 pred = int(predict*100)
 
 if st.button("Predict"):
-    st.success('The probability of heart failure is {}%'.format(pred))
+    st.success('The probability of getting any cardiovascular disease is {}%'.format(pred))
     if pred > 50.0:
         st.markdown(danger_html,unsafe_allow_html=True)
     else:
